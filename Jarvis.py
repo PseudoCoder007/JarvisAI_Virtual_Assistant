@@ -8,9 +8,6 @@ import os
 import smtplib   #for email    \item 
 import random
 
-
-
-
 engine=pyttsx3.init("sapi5")
 voices=engine.getProperty("voices")
 # print(voices)
